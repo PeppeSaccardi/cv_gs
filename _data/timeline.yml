@@ -1,0 +1,64 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Reply S.p.A.
+  title-url: https://www.reply.com/en/about/ambassadors
+  date: Sep 2020 - Present
+  subtitle: Ambassador
+  tags:
+    - tag: Social Network
+    - tag: Business and Emerging Technologies
+    - tag: Webinar 
+    - tag: Challenges
+  timeline-side: right
+
+- title: Univerity of Trento
+  title-url: https://www.unitn.it/en
+  date: Jul 2020 - Nov 2020
+  subtitle: Researcher as Intern
+  tags:
+    - tag: Statistical Models
+    - tag: Software Developer
+    - tag: GAMs
+    - tag: Covariance Matrix Modeling
+    - tag: Cloud Computing
+  timeline-side: right
+
+- title: High Performance Analytics S.r.L.
+  title-url: https://hpa.ai/
+  date: Feb 2020 - May 2020
+  subtitle: Data Scientist and Researcher as Occasional Self-Employment
+  tags:
+    - tag: Machine Learning
+    - tag: Electricity Market Forecasting
+    - tag: Time-series analysis
+    - tag: R and Jupyter Notebook
+  timeline-side: left
+
+- title: University of Trento 
+  title-url: https://www.unitn.it/en
+  date: Feb 2019 - Dec 2020
+  subtitle: M.Sc. Mathematics for Life and Data Science
+  timeline-side: right
+
+- title: University of Naples Federico II
+  title-url: http://www.unina.it/en_GB/home
+  date: Sep 2015 - Dec 2018
+  subtitle: B.A. Mathematics
+  timeline-side: left

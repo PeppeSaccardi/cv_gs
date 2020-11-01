@@ -1,0 +1,78 @@
+# > name: Name of your programming language
+# > weight: Describes how good you know the language - values from 1 up to 5
+#
+# Example of a Language
+# - name: Language
+#   weight: 5
+
+- name: R
+  weight: 5
+
+- name: Matlab
+  weight: 4
+
+- name: Python
+  weight: 2
+
+- name: C++
+  weight: 2
+
+- name: Julia
+  weight: 1
+
+- name: SQL
+  weight: 2
+
+- name: Markdown
+  weight: 4
+
+- name: MathematicalModeling 
+  weight: 5
+
+- name: StatisticalModeling 
+  weight: 5
+
+- name: MachineLearning
+  weight: 4
+
+- name: AI 
+  weight: 3
+
+- name: DeepLearning  
+  weight: 2
+
+- name: MacOS
+  weight: 5
+
+- name: Linux
+  weight: 4
+
+- name: Windows
+  weight: 3
+
+- name: Github
+  weight: 3
+
+- name: Bash
+  weight: 2
+
+- name: JupyterNotebook
+  weight: 4
+
+- name: RStudio
+  weight: 5
+
+- name: Exel
+  weight: 2
+
+- name: Latex
+  weight: 5
+
+- name: Word
+  weight: 4
+
+- name: VS Code
+  weight: 3
+
+- name: SQLiteStudio
+  weight: 2
