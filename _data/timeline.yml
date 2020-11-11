@@ -49,13 +49,23 @@
     - tag: Electricity Market Forecasting
     - tag: Time-series analysis
     - tag: R and Jupyter Notebook
+  timeline-side: right
+
+- title: University of Trento & Fondazione Bruno Kessler
+  title-url: https://www.linkedin.com/in/giuseppesaccardimathndata/detail/treasury/education:603506571/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABH4wAIBfNVPdCbJA1O2SsWy9O8ClVlWKq4%2C1563006055978)&section=education%3A603506571&treasuryCount=1
+  date: Jul 2019
+  subtitle: Summer School in Data Science and Epidemic Models
+  tags:
+    - tag: Numerical Simulations with R
+    - tag: Dynamical Systems
+    - tag: Epidemic Models and Data Analysis
   timeline-side: left
 
 - title: University of Trento 
   title-url: https://www.unitn.it/en
   date: Feb 2019 - Dec 2020
   subtitle: M.Sc. Mathematics for Life and Data Science
-  timeline-side: right
+  timeline-side: left
 
 - title: University of Naples Federico II
   title-url: http://www.unina.it/en_GB/home
