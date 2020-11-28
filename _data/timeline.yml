@@ -38,7 +38,7 @@
     - tag: GAMs
     - tag: Covariance Matrix Modeling
     - tag: Cloud Computing
-  timeline-side: right
+  timeline-side: left
 
 - title: High Performance Analytics S.r.L.
   title-url: https://hpa.ai/
@@ -71,4 +71,4 @@
   title-url: http://www.unina.it/en_GB/home
   date: Sep 2015 - Dec 2018
   subtitle: B.A. Mathematics
-  timeline-side: left
+  timeline-side: right
