@@ -14,7 +14,7 @@ baseurl: ""
 username: Giuseppe Saccardi
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Reply Ambassador and Msc in Math Graduate
+typing_text: Data Scientist & Researcher at ...
 # email: Your E-Mail address for the email button.
 email: giuseppesaccardi@icloud.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi, I'm Giuseppe Saccardi, graduate in Mathematics at the University of Trento! Currently engaged in the role of Reply Ambassador! Passionate about Data Science and Artificial Intelligence, I am also a technology and renewable energy enthusiast. At the moment I am looking for a job that allows me to work with outstanding and cutting-edge people that will enhance my professional profile! In my free-time I love walking in nature, listening to Podcasts about tech, culture and news, and watching football on TV. Things I am a myth in? I know the secret for cooking the best risotto with prawns!  
+about_me_description: Hi, I'm Giuseppe Saccardi, graduate in Mathematics at the University of Trento! Passionate about Data Science and Artificial Intelligence, I am also a technology and renewable energy enthusiast. At the moment I am looking for a job that allows me to work with outstanding and cutting-edge people that will enhance my professional profile! In my free-time I love walking in nature, listening to Podcasts about tech, culture and news, and watching football on TV. Things I am a myth in? I know the secret for cooking the best risotto with prawns!  
 
 # SKILLS SECTION
 # show_skills_card:
@@ -55,7 +55,7 @@ timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://www.dropbox.com/s/euaayuj3mff27xg/CV_giuseppe_saccardi.pdf?dl=0
-cv_download_link_eng: https://www.dropbox.com/s/v9h0ax90af3vqcp/CV_giuseppe_saccardi_up_eng.pdf?dl=0
+cv_download_link_eng: https://www.dropbox.com/s/ykuj6295zwlp1fw/GiuseppeSaccardiCV.pdf?raw=1
 # PROJECTS SECTION
 # show_projects_card:
 # > setting this to true, will display the Projects section
