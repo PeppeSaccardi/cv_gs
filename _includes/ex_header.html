@@ -1,0 +1,137 @@
+<!-- <header class="panel-cover"  style="background-image: url({{ "images/cover.jpg" | prepend: site.baseurl }})" > -->
+<header class="panel-cover">
+  <div class="panel-main">
+
+    <div class="panel-main__inner panel-inverted">
+    <div class="panel-main__content">
+        <a class='home' href="/{{ site.baseurl }}#home" title="link to home of {{ site.title }}">
+          <img src="/{{ "images/picture.jpg" | prepend: site.baseurl }}" class="user-image" alt="My Profile Photo">
+          <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
+        </a>
+        <hr class="panel-cover__divider">
+        <p class="panel-cover__description">{{ site.description }}</p>
+        <hr class="panel-cover__divider panel-cover__divider--secondary">
+
+        <div class="navigation-wrapper">
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a class="home" href="/{{ site.baseurl }}#home" title="link to {{ site.title }} about me" class="blog-button">home</a></li>
+            </ul>
+					</nav>
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="/{{ site.baseurl }}research" title="link to {{ site.title }} research " class="blog-button">research interests</a></li>
+            </ul>
+          </nav>
+
+          
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="/{{ site.baseurl }}cv_and_contacts" title="link to {{ site.title }} about me & CV" class="blog-button">cv & contacts</a></li>
+            </ul>
+          </nav>
+
+
+          <nav class="cover-navigation navigation--social">
+            <ul class="navigation">
+
+            {% if site.author.email %}
+              <!-- Email -->
+              <li class="navigation__item">
+                <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
+                  <i class="icon icon-mail"></i>
+                  <span class="label">Email</span>
+                </a>
+              </li>
+            {% endif %}
+         
+            {% if site.author.linkedin_username %}
+              <!-- LinkedIn -->
+              <li class="navigation__item">
+                <a href="https://www.linkedin.com/in/giuseppesaccardimathndata/" title="Giuseppe on LinkedIn" target="_blank">
+                  <i class="icon icon-social-linkedin"></i>
+                  <span class="label">LinkedIn</span>
+                </a>
+              </li>
+            {% endif %}
+
+              <!-- Twitter -->
+              <li class="navigation__item">
+                <a href="https://twitter.com/GiuseppeSaccar3" title="Giuseppe on Twitter" target="_blank">
+                  <i class="icon icon-social-twitter"></i>
+                  <span class="label">Twitter</span>
+                </a>
+              </li>
+
+              <!-- Github -->
+              <li class="navigation__item">
+                <a href="https://github.com/peppesaccardi" title="Giuseppe on Github" target="_blank">
+                  <i class="icon icon-social-github"></i>
+                  <span class="label">GitHub</span>
+                </a>
+              </li>
+
+
+          
+            </ul>
+          </nav>
+			
+        </div>
+
+<!--------------- new nav ------------------->
+        <div id='short-nav' class="navigation-wrapper">
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a class="home" href="{{ site.baseurl }}#home" title="link to {{ site.title }} about me" class="blog-button">home</a></li>
+            </ul>
+					</nav> <br>
+
+          <nav class="cover-navigation navigation--social">
+            <ul class="navigation">
+
+            {% if site.author.email %}
+              <!-- Email -->
+              <li class="navigation__item">
+                <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
+                  <i class="icon icon-mail"></i>
+                  <span class="label">Email</span>
+                </a>
+              </li>
+            {% endif %}
+         
+            {% if site.author.linkedin_username %}
+              <!-- LinkedIn -->
+              <li class="navigation__item">
+                <a href="https://www.linkedin.com/in/giuseppesaccardimathndata/" title="Giuseppe on LinkedIn" target="_blank">
+                  <i class="icon icon-social-linkedin"></i>
+                  <span class="label">LinkedIn</span>
+                </a>
+              </li>
+            {% endif %}
+
+          <!-- Twitter -->
+              <li class="navigation__item">
+                <a href="https://twitter.com/GiuseppeSaccar3" title="Giuseppe on Twitter" target="_blank">
+                  <i class="icon icon-social-twitter"></i>
+                  <span class="label">Twitter</span>
+                </a>
+              </li>
+
+          
+          
+            </ul>
+          </nav>
+			
+        </div>
+<!-----------end new nav ------------------>
+      </div>
+
+    </div>
+
+    <div id='particles-js' class="panel-cover--overlay"></div>
+  </div>
+</header>
