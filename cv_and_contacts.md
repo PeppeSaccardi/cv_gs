@@ -29,5 +29,5 @@ You can find more information about my education and professional experiences on
 
 <p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px;">
 <strong>Social Profiles</strong>: <a href="https://it.linkedin.com/in/giuseppesaccardimathndata">Linkedin</a> |  <a href="https://twitter.com/GiuseppeSaccar3">Twitter</a> | <a href="https://instagram.com/peppe_sacc/">Instagram</a> <br>
-<strong>e-mails</strong>: <em>giuseppe.saccardi@kebula.it</em> | <em>giuseppe.saccardi@alumni.unitn.it</em> | <br> <em>giuseppesaccardi@icloud.com<em></p>
+<strong>e-mails</strong>: <em>giuseppe.saccardi@kebula.it</em> | <em>giuseppe.saccardi@alumni.unitn.it</em> | <br> <em>giuseppesaccardi@icloud.com<em> </p>
 
